@@ -1,25 +1,24 @@
 # CoinGecko-API-Docs-Project
-Documentation improvements for CoinGecko API
+**Documentation improvements for CoinGecko API**
 
 Hi there, and welcome! 👋
 
-This project is part of my personal portfolio, designed to showcase some of the new technical skills I’m actively developing in my current role.
+This project is part of my personal portfolio, created to showcase the technical writing skills and hands-on API experience I'm actively developing in my current role.
 
-I’m excited to be working more closely with querying live databases and inspecting API responses firsthand — instead of relying on developers to fetch the information for me. Since the real systems I'm working with are private and confidential, I wanted to recreate the experience using publicly available APIs.
+Lately, I’ve been querying live databases and inspecting API responses firsthand — rather than relying on developers to provide the information for me. Since the real systems I work with are private and confidential, I recreated a similar experience using publicly available APIs.
 
-For this project, I chose the ´CoinGecko API´, a free and widely used cryptocurrency data API. I’m focusing on:
+For this project, I chose the `CoinGecko API`, a free and widely used cryptocurrency data API. My focus areas include:
 
-- Documenting selected endpoints clearly and thoroughly.
+- **Documenting selected endpoints** clearly and thoroughly
+- **Demonstrating real-world querying practices**
+- **Drafting an OpenAPI 3.0 specification** for a portion of the API
+- **Providing ready-to-use example requests and responses**
+- **Offering commentary on the API’s design and usability**
 
-- Demonstrating real-world querying practices.
 
-- Drafting an OpenAPI 3.0 specification for part of the API.
+This latter bullet point is an area I’m passionate about from past experience participating in API design sessions and recent course I completed ([Design and Build Great Web APIs](https://www.educative.io/courses/design-and-build-great-web-api)" by Educative).
 
-- Providing example requests and responses developers can use immediately.
-
-- Offering commentary on the API’s design and usability — an area I’m passionate about from past experience participating in API design sessions and training (e.g., "[Design and Build Great Web APIs](https://www.educative.io/courses/design-and-build-great-web-api)" by Educative).
-
-This project is intended to evolve as I complete it. I'll be sharing reflections on my learning journey, challenges encountered and improvements made along the way.
+This project will continue evolving as I complete it. I'll also share reflections on my learning journey, challenges encountered and improvements made along the way.
 
 Thanks for checking it out!
 
@@ -34,7 +33,7 @@ Thanks for checking it out!
 ---
 ### Repo structure
 
-´´´
+```
 /docs
   quickstart.md
   simple-endpoints.md
@@ -49,4 +48,4 @@ Thanks for checking it out!
   fetch_price.py
 README.md
 LICENSE (optional)
-´´´
+```
