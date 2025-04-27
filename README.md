@@ -23,17 +23,18 @@ This project is intended to evolve as I complete it. I'll be sharing reflections
 
 Thanks for checking it out!
 
-### Toolset:
+### Toolset
 
 - Studio 3T and DBeaver for JSON exploration
 - curl and Postman for API calls
-- Markdown and OpenAPI 3.0 for documentation
+- Markdown, JSON and OpenAPI 3.0 for documentation
 - Git and GitHub for version control
-- Python for basic API testing script (optional)
+- Python for basic API testing script
 
 ---
 ### Repo structure
 
+´´´
 /docs
   quickstart.md
   simple-endpoints.md
@@ -48,3 +49,4 @@ Thanks for checking it out!
   fetch_price.py
 README.md
 LICENSE (optional)
+´´´
